@@ -103,15 +103,44 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
 
 ### ⚙️ Automatización e integraciones
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Graph" />
-</p>
+<p>Integración de servicios, automatización de flujos y conexión de herramientas empresariales.</p>
 
-<sub>Microsoft 365 · Entra ID · SharePoint · OAuth 2.0 · Webhooks · ERP / CRM</sub>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://n8n.io/">
+        <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="Logo n8n" width="46" height="46"/>
+      </a><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate">
+        <img src="https://msicons.com/icons/power-platform/PowerAutomate_scalable.svg" alt="Logo Power Automate" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Power Automate</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/en-us/power-platform/products/power-apps">
+        <img src="https://msicons.com/icons/power-platform/PowerApps_scalable.svg" alt="Logo Power Apps" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Power Apps</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.odoo.com/">
+        <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Logo Odoo" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Odoo</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://learn.microsoft.com/en-us/graph/overview">
+        <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/microsoft-365.svg" alt="Microsoft 365: integración con Microsoft Graph" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Microsoft Graph</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Microsoft 365 · Entra ID · SharePoint · OAuth 2.0 · Webhooks · ERP / CRM</sub></p>
 
 ### 🧪 Testing, herramientas y despliegue
 
