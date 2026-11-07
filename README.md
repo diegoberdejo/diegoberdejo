@@ -16,22 +16,59 @@ Soy **AI Engineer** y bachiller en **Administración y Negocios Internacionales*
 
 Mi experiencia cruza **ingeniería de software, automatización y operaciones de negocio**. He trabajado en productos con usuarios reales, conciliación de datos y sistemas de IA con controles de seguridad.
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
-| Proyecto | Problema / solución | Evidencia y estado |
-| --- | --- | --- |
-| **[DataHub](casos/datahub.md)** | CRM de 8 módulos integrado con Odoo 19; reemplazó procesos gestionados en Excel | Entregado en 2 meses; utilizado por 4 personas, incluida gerencia |
-| **[SIRE Control](casos/sire-control.md)** | Conciliación SIRE/RCE SUNAT frente a registros de compras mediante reglas y trazabilidad | Python/FastAPI; despliegue en Render; más de 1,400 pruebas automatizadas |
-| **[Jacobot](casos/jacobot.md)** | Agente empresarial para Microsoft 365 con integraciones, autorización y auditoría | En preproducción; Microsoft Graph / Entra ID; más de 100 pruebas automatizadas |
+<p>Soluciones desarrolladas para operaciones reales, comunidades y usuarios. Haz clic en cada proyecto para explorar su arquitectura, funcionalidades y resultados.</p>
 
-> **Nota sobre el código:** los repositorios de estos proyectos permanecen privados por confidencialidad de clientes o por tratarse de desarrollos en curso. Las fichas enlazadas explican mi contribución, las tecnologías empleadas, el estado del proyecto y la evidencia disponible, sin divulgar información sensible.
+<table>
+<tr><td width="50%" valign="top">
+<h3>🏢 <a href="casos/datahub.md">DataHub</a></h3>
+<p><img src="https://img.shields.io/badge/11_m%C3%B3dulos-gesti%C3%B3n_empresarial-2563EB?style=flat-square" alt="11 módulos"/><br/>
+<img src="https://img.shields.io/badge/Sedes-Ate_%2B_Gamarra-475569?style=flat-square" alt="Ate y Gamarra"/></p>
+<p><strong>Plataforma empresarial</strong> integrada con Odoo 19. Inventarios y repuestos por SKU/códigos de barras, caja por sede, chat interno y <strong>dashboard de seguimiento operativo</strong> de pendientes, responsables, estados, prioridades y fechas para supervisión gerencial.</p>
+<p><a href="casos/datahub.md">📖 Ver caso de estudio</a></p>
+</td><td width="50%" valign="top">
+<h3>🧾 <a href="casos/sire-control.md">SIRE Control</a></h3>
+<p><img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python/FastAPI"/><br/>
+<img src="https://img.shields.io/badge/1400%2B-pruebas-16804A?style=flat-square" alt="Más de 1400 pruebas"/></p>
+<p><strong>Software a medida para una consultora contable.</strong> Concilia SIRE/RCE SUNAT contra registros internos de compras, identifica discrepancias con reglas deterministas y mantiene trazabilidad y seguimiento de comprobantes entre periodos.</p>
+<p><a href="casos/sire-control.md">📖 Ver caso de estudio</a></p>
+</td></tr>
+<tr><td width="50%" valign="top">
+<h3>⚡ <a href="casos/pokebot.md">Pokebot Perú</a></h3>
+<p><img src="https://img.shields.io/badge/Discord-alertas-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/><br/>
+<img src="https://img.shields.io/badge/Python-monitorizaci%C3%B3n-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<p><strong>Bot de alertas Pokémon TCG</strong> para una comunidad de coleccionistas. Monitoriza tiendas con consultas periódicas de alta frecuencia y notifica en Discord nuevas publicaciones, preventas, reposiciones y cambios de disponibilidad o precio.</p>
+<p><a href="casos/pokebot.md">📖 Ver caso de estudio</a></p>
+</td><td width="50%" valign="top">
+<h3>⚽ <a href="casos/centenario-fc.md">Centenario FC</a></h3>
+<p><img src="https://img.shields.io/badge/PWA-en_producci%C3%B3n-16804A?style=flat-square" alt="PWA en producción"/><br/>
+<img src="https://img.shields.io/badge/Next.js_16-Supabase-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js y Supabase"/></p>
+<p><strong>App para un club de fútbol amateur.</strong> Pichangas, plantel, actas, votación MVP, rankings, pagos, caja y auditoría; funcionamiento móvil y escritorio, con pruebas automatizadas.</p>
+<p><a href="casos/centenario-fc.md">📖 Ver caso de estudio</a> · <a href="https://www.centenario-fc.app/">🌐 Visitar app</a> <sub>(acceso privado)</sub></p>
+</td></tr>
+</table>
 
-## Experiencia relevante
+<details>
+<summary><b>🤖 Jacobot — Agente empresarial para Microsoft 365 (en preproducción)</b></summary>
+<br/>
+Integración con Microsoft Graph y Entra ID mediante un gateway Python/FastAPI. Incluye validación de políticas, aprobaciones humanas, auditoría y más de 100 pruebas automatizadas.
 
-- **Obsidian Labs:** fundador; desarrollo de agentes y chatbots con IA generativa, automatizaciones e integraciones con sistemas empresariales.
-- **Mitsui Automotriz:** agentes con Copilot Studio y automatizaciones usando Power Automate, Power Apps y SharePoint.
-- **Siemens:** análisis de facturación y operaciones logísticas con SAP.
-- **Operaciones logísticas:** coordinación, seguimiento de incidencias y control de información.
+[📖 Explorar arquitectura y estado](casos/jacobot.md)
+</details>
+
+<details>
+<summary><b>🔐 ¿Por qué algunos repositorios no son públicos?</b></summary>
+<br/>
+Parte de los desarrollos corresponde a clientes o sistemas con información operativa. Por confidencialidad, comparto fichas técnicas y resultados que pueden comunicarse sin exponer credenciales, datos personales ni código privado. Los estados de producción, desarrollo y validación se indican por separado.
+</details>
+
+## 💼 Experiencia relevante
+
+- **🏢 Obsidian Labs:** fundador.
+- **🚘 Mitsui Automotriz:** agentes con Copilot Studio y automatizaciones mediante Power Automate, Power Apps y SharePoint.
+- **🏭 Siemens:** análisis de facturación y operaciones logísticas con SAP.
+- **🚚 Operaciones logísticas:** coordinación, seguimiento de incidencias y control de información.
 
 ## Stack técnico
 
