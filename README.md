@@ -109,7 +109,7 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
     </td>
     <td align="center" width="20%">
       <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio">
-        <img src="https://cdn.simpleicons.org/microsoftcopilot/8A2BE2" alt="Icono Microsoft Copilot" width="46" height="46"/>
+        <img src="assets/icons/microsoft-copilot.svg" alt="Logo Microsoft Copilot" width="46" height="46"/>
       </a><br/>
       <sub><b>Copilot Studio</b></sub>
     </td>
