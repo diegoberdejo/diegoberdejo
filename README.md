@@ -79,15 +79,44 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
 
 ### 🤖 IA generativa y agentes
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/MCP-24292F?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/RAG-454C59?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Copilot%20Studio-5B2C91?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Copilot Studio" />
-</p>
+<p>Desarrollo de agentes con LLM, uso de herramientas, recuperación de conocimiento y evaluación de resultados.</p>
 
-<sub>LLM APIs · Function calling · Tool use · Guardrails · Evaluación y pruebas de agentes</sub>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://openai.com/">
+        <img src="https://cdn.simpleicons.org/openai/74AA9C" alt="Logo OpenAI" width="46" height="46"/>
+      </a><br/>
+      <sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.anthropic.com/">
+        <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Logo Anthropic" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Anthropic</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://modelcontextprotocol.io/">
+        <img src="assets/icons/mcp-concept.svg" alt="Icono de concepto MCP" width="46" height="46"/>
+      </a><br/>
+      <sub><b>MCP</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">
+        <img src="assets/icons/rag-concept.svg" alt="Icono de concepto RAG" width="46" height="46"/>
+      </a><br/>
+      <sub><b>RAG</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio">
+        <img src="https://cdn.simpleicons.org/microsoftcopilot/8A2BE2" alt="Icono Microsoft Copilot" width="46" height="46"/>
+      </a><br/>
+      <sub><b>Copilot Studio</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>LLM APIs · Function calling · Tool use · Guardrails · Evaluación y pruebas de agentes</sub></p>
 
 ### 🧩 Backend, datos y frontend
 
