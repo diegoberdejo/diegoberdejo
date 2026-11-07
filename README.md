@@ -35,11 +35,60 @@ Mi experiencia cruza **ingeniería de software, automatización y operaciones de
 
 ## Stack técnico
 
-**IA y agentes:** APIs de OpenAI y Anthropic, RAG, function calling, MCP, Copilot Studio, guardrails y evaluación de LLM.  
-**Backend y datos:** Python, FastAPI, Pydantic, Node.js, TypeScript, SQL, PostgreSQL y APIs REST.  
-**Frontend:** React, Next.js, Tailwind CSS y shadcn/ui.  
-**Integraciones y automatización:** Microsoft Graph, Entra ID, Odoo, n8n, Power Automate, Power Apps y SharePoint.  
-**Calidad y despliegue:** pytest, Vitest, Playwright, Git/GitHub, Vercel y Render.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,postgres,react,nextjs,tailwind,git,github,azure&theme=dark&perline=12" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, PostgreSQL, React, Next.js, Tailwind CSS, Git, GitHub y Azure" />
+</p>
+
+### 🤖 IA generativa y agentes
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/MCP-24292F?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-454C59?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Copilot%20Studio-5B2C91?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Copilot Studio" />
+</p>
+
+<sub>LLM APIs · Function calling · Tool use · Guardrails · Evaluación y pruebas de agentes</sub>
+
+### 🧩 Backend, datos y frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,postgres&theme=dark&perline=8" alt="Python, TypeScript, JavaScript, FastAPI, Node.js y PostgreSQL" />
+</p>
+<sub>Python · TypeScript · JavaScript · FastAPI · Node.js · PostgreSQL · SQL · Pydantic · APIs REST</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=8" alt="React, Next.js y Tailwind CSS" />
+</p>
+<sub>React · Next.js · Tailwind CSS · shadcn/ui</sub>
+
+### ⚙️ Automatización e integraciones
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Graph" />
+</p>
+
+<sub>Microsoft 365 · Entra ID · SharePoint · OAuth 2.0 · Webhooks · ERP / CRM</sub>
+
+### 🧪 Testing, herramientas y despliegue
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,azure&theme=dark&perline=8" alt="Git, GitHub, Vercel y Azure" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<sub>Pruebas unitarias · Integración · E2E · CI/CD · Revisión y documentación técnica</sub>
 
 ## Mi enfoque de trabajo
 
