@@ -85,15 +85,15 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
   <tr>
     <td align="center" width="20%">
       <a href="https://openai.com/">
-        <img src="https://cdn.simpleicons.org/openai/74AA9C" alt="Logo OpenAI" width="46" height="46"/>
+        <img src="assets/icons/openai.svg" alt="Logo OpenAI" width="46" height="46"/>
       </a><br/>
       <sub><b>OpenAI</b></sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://www.anthropic.com/">
-        <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Logo Anthropic" width="46" height="46"/>
+      <a href="https://claude.ai/">
+        <img src="assets/icons/claude.svg" alt="Logo Claude" width="46" height="46"/>
       </a><br/>
-      <sub><b>Anthropic</b></sub>
+      <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://modelcontextprotocol.io/">
