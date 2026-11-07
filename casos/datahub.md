@@ -60,6 +60,16 @@ Es un **dashboard de seguimiento operativo y gestión de tareas (task management
 | 🧪 Pruebas | Scripts con assert de Node y pruebas con Puppeteer |
 | ☁️ Publicación | **Vercel**, con despliegues automatizados desde la rama principal |
 
+### 🧪 Herramientas de desarrollo y validación
+
+Además del stack de producción, el proyecto utiliza herramientas locales para reducir errores en el levantamiento y la implementación:
+
+- 🎙️ **Python + Whisper:** transcripción de notas de voz con retroalimentación del cliente para convertirlas en requisitos y decisiones trazables. **No forma parte de la aplicación desplegada.**
+- 🔎 **Scripts de diagnóstico en Node.js:** exploración de modelos, campos y respuestas reales de la API de Odoo antes de implementar módulos o integraciones.
+- ✅ **Pruebas ejecutables:** scripts con `node:assert` y verificaciones con Puppeteer para validar comportamientos relevantes.
+
+La documentación técnica identifica **17 pantallas** y **13 endpoints**, sin confundir ese número con la cantidad de módulos de negocio.
+
 ### 🔄 Separación de responsabilidades
 
 - **Odoo** es la fuente de verdad para inventario, ventas, compras, facturación y tickets. La integración es **principalmente de lectura**; existe una operación acotada para actualizar estado y nota de máquinas importadas.
