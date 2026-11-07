@@ -1,85 +1,54 @@
-<p align="center">
-  <a href="https://github.com/Drakezera">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Diego%20Berdejo&text2=AI%20%26%20Automation%20Engineer&width=900&height=250" alt="Diego Berdejo — AI & Automation Engineer">
-  </a>
-</p>
+<h1 align="center">Diego Berdejo</h1>
+<p align="center"><strong>AI Engineer · AI Agents · Business Automation · Full-Stack Development</strong></p>
+<p align="center">Lima, Perú · Convierto procesos de negocio complejos en soluciones digitales útiles y verificables.</p>
 
 <p align="center">
-  Lima, Perú 🇵🇪 · Construyo agentes de IA y automatizaciones que corren en producción.
+  <a href="https://www.linkedin.com/in/diego-berdejo/">LinkedIn</a> ·
+  <a href="mailto:diegoberdejo22@gmail.com">Contacto</a> ·
+  <a href="https://github.com/diegoberdejo">GitHub</a>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## Perfil
 
-- 🤖 Construyo **agentes de IA** con tool use y function calling vía **MCP** (Model Context Protocol)
-- ⚙️ Automatizo procesos de negocio: extracción de datos, reportería e integraciones
-- 🔌 Conecto LLMs a **ERPs y sistemas reales** — Odoo, SAP, APIs REST
-- 🌐 Desarrollo **plataformas web a medida** con Next.js y TypeScript
-- 📦 Vengo de **comercio exterior y logística**, así que trabajo donde el proceso operativo y la tecnología se cruzan
-- 💼 Fundador de **Obsidian Labs** — automatización e inteligencia artificial
+Soy **AI Engineer** y bachiller en **Administración y Negocios Internacionales**. Diseño e implemento agentes de IA, aplicaciones web e integraciones empresariales. Trabajo desde el análisis del problema y los requisitos de usuarios hasta la arquitectura, el desarrollo, las pruebas y la entrega.
 
-> Buena parte de mi trabajo es para clientes y vive en repositorios privados.
-> Aquí publico proyectos propios y herramientas que puedo compartir.
+Mi experiencia cruza **ingeniería de software, automatización y operaciones de negocio**. He trabajado en productos con usuarios reales, conciliación de datos y sistemas de IA con controles de seguridad.
 
----
+## Proyectos destacados
 
-### 📫 Encuéntrame
+| Proyecto | Problema / solución | Evidencia y estado |
+| --- | --- | --- |
+| **[DataHub](casos/datahub.md)** | CRM de 8 módulos integrado con Odoo 19; reemplazó procesos gestionados en Excel | Entregado en 2 meses; utilizado por 4 personas, incluida gerencia |
+| **[SIRE Control](casos/sire-control.md)** | Conciliación SIRE/RCE SUNAT frente a registros de compras mediante reglas y trazabilidad | Python/FastAPI; despliegue en Render; más de 1,400 pruebas automatizadas |
+| **[Jacobot](casos/jacobot.md)** | Agente empresarial para Microsoft 365 con integraciones, autorización y auditoría | En preproducción; Microsoft Graph / Entra ID; más de 100 pruebas automatizadas |
 
-<p>
-  <a href="mailto:diegoberdejo22@gmail.com">
-    <img src="https://img.shields.io/badge/-diegoberdejo22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/diego-berdejo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Drakezera">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+> **Nota sobre el código:** los repositorios de estos proyectos permanecen privados por confidencialidad de clientes o por tratarse de desarrollos en curso. Las fichas enlazadas explican mi contribución, las tecnologías empleadas, el estado del proyecto y la evidencia disponible, sin divulgar información sensible.
 
----
+## Experiencia relevante
 
-### ⚡ Tecnologías
+- **Obsidian Labs:** fundador; desarrollo de agentes y chatbots con IA generativa, automatizaciones e integraciones con sistemas empresariales.
+- **Mitsui Automotriz:** agentes con Copilot Studio y automatizaciones usando Power Automate, Power Apps y SharePoint.
+- **Siemens:** análisis de facturación y operaciones logísticas con SAP.
+- **Operaciones logísticas:** coordinación, seguimiento de incidencias y control de información.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,postgres,supabase,vercel,git,docker,tailwind&theme=dark&perline=12" alt="Stack">
-</p>
+## Stack técnico
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Anthropic%20Claude-black?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-n8n-black?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/-MCP-black?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
-  <img src="https://img.shields.io/badge/-Odoo-black?style=for-the-badge&logo=odoo&logoColor=white">
-  <img src="https://img.shields.io/badge/-SAP-black?style=for-the-badge&logo=sap&logoColor=white">
-</p>
+**IA y agentes:** APIs de OpenAI y Anthropic, RAG, function calling, MCP, Copilot Studio, guardrails y evaluación de LLM.  
+**Backend y datos:** Python, FastAPI, Pydantic, Node.js, TypeScript, SQL, PostgreSQL y APIs REST.  
+**Frontend:** React, Next.js, Tailwind CSS y shadcn/ui.  
+**Integraciones y automatización:** Microsoft Graph, Entra ID, Odoo, n8n, Power Automate, Power Apps y SharePoint.  
+**Calidad y despliegue:** pytest, Vitest, Playwright, Git/GitHub, Vercel y Render.
+
+## Mi enfoque de trabajo
+
+1. Entender el proceso y definir el problema con los usuarios.
+2. Diseñar una solución viable, con alcance y criterios de éxito claros.
+3. Construir prototipos funcionales e integrar los sistemas necesarios.
+4. Validar con pruebas, casos reales y retroalimentación.
+5. Documentar, entregar y mejorar de forma iterativa.
 
 ---
 
-### 🛠️ Proyectos
-
-<a href="https://github.com/Drakezera/whatsapp-ai-agent-n8n">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drakezera&repo=whatsapp-ai-agent-n8n&theme=dark&hide_border=true" alt="whatsapp-ai-agent-n8n">
-</a>
-<a href="https://github.com/Drakezera/langgraph-agent-basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drakezera&repo=langgraph-agent-basics&theme=dark&hide_border=true" alt="langgraph-agent-basics">
-</a>
-
----
-
-### 📊 Estadísticas
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Drakezera&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=stars" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakezera&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">
-  <i>¿Tu equipo pierde tiempo en procesos manuales? Hablemos.</i>
-</p>
+<p align="center"><strong>IA aplicada a problemas reales de negocio, con ingeniería y resultados verificables.</strong></p>
