@@ -24,8 +24,9 @@ Mi experiencia cruza **ingeniería de software, automatización y operaciones de
 <tr><td width="50%" valign="top">
 <h3>🏢 <a href="casos/datahub.md">DataHub</a></h3>
 <p><img src="https://img.shields.io/badge/11_m%C3%B3dulos-gesti%C3%B3n_empresarial-2563EB?style=flat-square" alt="11 módulos"/><br/>
-<img src="https://img.shields.io/badge/Sedes-Ate_%2B_Gamarra-475569?style=flat-square" alt="Ate y Gamarra"/></p>
-<p><strong>Plataforma empresarial</strong> integrada con Odoo 19. Inventarios y repuestos por SKU/códigos de barras, caja por sede, chat interno y <strong>dashboard de seguimiento operativo</strong> de pendientes, responsables, estados, prioridades y fechas para supervisión gerencial.</p>
+<img src="https://img.shields.io/badge/Sedes-Ate_%2B_Gamarra-475569?style=flat-square" alt="Ate y Gamarra"/><br/>
+<img src="https://img.shields.io/badge/Usuarios-aprox._20-16804A?style=flat-square" alt="Aproximadamente 20 usuarios"/></p>
+<p><strong>Plataforma de operaciones en producción</strong> con Next.js 16, React 19, JavaScript, Neon PostgreSQL y Odoo 19 Enterprise (API JSON-2). Incluye inventario con códigos de barras, caja para Ate y Gamarra, chat y <strong>dashboard de gestión de tareas</strong> para supervisión gerencial.</p>
 <p><a href="casos/datahub.md">📖 Ver caso de estudio</a></p>
 </td><td width="50%" valign="top">
 <h3>🧾 <a href="casos/sire-control.md">SIRE Control</a></h3>
