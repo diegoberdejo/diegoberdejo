@@ -1,29 +1,54 @@
-# Caso de estudio — DataHub
+# 🏢 DataHub — Plataforma de gestión empresarial
 
-**Categoría:** Transformación digital · CRM · Integración ERP  
-**Rol:** Arquitectura, análisis de requerimientos y desarrollo full stack  
-**Estado:** Entregado y utilizado por usuarios de negocio
+[![Estado](https://img.shields.io/badge/Estado-implementado-16804A?style=for-the-badge)](../README.md#-proyectos-destacados)
+![Módulos](https://img.shields.io/badge/11-m%C3%B3dulos-2563EB?style=for-the-badge)
+![Sedes](https://img.shields.io/badge/2-sedes-Ate%20%2B%20Gamarra-64748B?style=for-the-badge)
 
-## Problema
+**Rol:** análisis de procesos, diseño de arquitectura y desarrollo full stack.  
+**Tipo:** aplicación empresarial privada con integración ERP.
 
-Una empresa llevaba el control de procesos mediante hojas de Excel. La información estaba distribuida en múltiples archivos y el trabajo requería intervenciones manuales para realizar seguimiento.
+## 🎯 El problema
 
-## Solución
+La operación dependía de hojas de cálculo y controles fragmentados. Era necesario concentrar información, coordinar trabajo de colaboradores y dar al gerente general visibilidad sobre las tareas y el funcionamiento de distintas áreas y sedes.
 
-Diseñé y desarrollé **DataHub**, un CRM de **8 módulos** con una interfaz web unificada e integración con **Odoo 19** a través de API JSON-RPC. El trabajo incluyó levantamiento de necesidades con usuarios y gerencia, definición de alcance, arquitectura, implementación, pruebas y transferencia.
+## 🛠️ La solución
 
-## Tecnologías
+Desarrollé **DataHub**, una plataforma empresarial de **11 módulos** que conecta actividades administrativas, operativas y comerciales con **Odoo 19**. Entre las funciones implementadas destacan:
 
-Next.js · React · TypeScript · Odoo 19 · APIs JSON-RPC · automatizaciones
+- 📋 **Tablero de gestión de tareas y seguimiento operativo:** pendientes por responsable, prioridad, vencimiento y estado. Facilita que el gerente general asigne y supervise el avance de sus colaboradores.
+- 📦 **Inventario y repuestos:** control y consulta de productos mediante **SKU y códigos de barras**.
+- 💵 **Caja por sede:** operación y seguimiento de caja para las sedes de **Ate y Gamarra**.
+- 💬 **Chat interno:** comunicación y coordinación entre usuarios desde la plataforma.
+- 🧩 **Gestión empresarial centralizada:** módulos para clientes, casos, cobranzas, punto de venta, métricas y otros procesos de operación.
 
-## Resultado verificable
+**Nombre técnico del tablero:** *dashboard de seguimiento operativo y gestión de tareas* (también llamado *task management dashboard*).
 
-- **Entrega en 2 meses**.
-- Sustituyó el control anterior basado en Excel.
-- **4 usuarios**, incluida la gerencia, utilizan la solución.
+## 🧱 Arquitectura y tecnologías
 
-## Mi aprendizaje
+| Capa | Tecnologías y función |
+|---|---|
+| 🖥️ Interfaz | Next.js, React y TypeScript; navegación por módulos |
+| 🔌 Integración | API JSON-RPC para conectar procesos con Odoo 19 ERP |
+| ⚙️ Lógica | Reglas de negocio, validaciones y automatizaciones de la aplicación |
+| 👥 Operación | Usuarios, responsabilidades, seguimiento y chat interno |
 
-Una solución útil no solo automatiza tareas: debe comprender el proceso, simplificar el trabajo de las personas y ajustarse a las reglas reales del negocio.
+## 📈 Resultado
 
-> Este es un resumen profesional del proyecto. El repositorio y la información operativa del cliente no se publican por confidencialidad. Las métricas aquí incluidas corresponden a resultados reportados del proyecto; no se atribuyen ahorros financieros sin medición.
+- Entrega inicial en **2 meses**, según el historial del proyecto.
+- Sustitución de controles anteriormente mantenidos en Excel.
+- Uso real en la empresa; la adopción inicial reportada fue de **4 personas, incluida la gerencia**. El número actual de usuarios no se publica como una métrica verificada.
+- Evolución funcional hasta una plataforma de **11 módulos** con gestión de inventario y caja por sede.
+
+<details>
+<summary><strong>🔎 ¿Qué demuestra este proyecto?</strong></summary>
+
+- Capacidad de traducir necesidades del gerente y de usuarios operativos en requisitos de software.
+- Integraciones de negocio con ERP y flujos administrativos reales.
+- Diseño de una plataforma modular que puede evolucionar con los procesos de la empresa.
+- Entrega de producto utilizado en operaciones, no solo un prototipo visual.
+
+</details>
+
+> 🔒 **Confidencialidad:** no se publica el repositorio, nombres de colaboradores, tareas internas, transacciones ni capturas identificables del cliente. No se atribuyen ahorros económicos sin mediciones.
+
+[⬅️ Volver al portafolio](../README.md#-proyectos-destacados)
