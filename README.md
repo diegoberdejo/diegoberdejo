@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-berdejo/">LinkedIn</a> ·
-  <a href="mailto:diegoberdejo22@gmail.com">Contacto</a> ·
-  <a href="https://github.com/diegoberdejo">GitHub</a>
+  <a href="mailto:diegoberdejo22@gmail.com">Contacto</a>
 </p>
 
 ---
@@ -73,10 +72,6 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
 - **🚚 Operaciones logísticas:** coordinación, seguimiento de incidencias y control de información.
 
 ## Stack técnico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,postgres,react,nextjs,tailwind,git,github,azure&theme=dark&perline=12" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, PostgreSQL, React, Next.js, Tailwind CSS, Git, GitHub y Azure" />
-</p>
 
 ### 🤖 IA generativa y agentes
 
