@@ -1,4 +1,9 @@
-# Caso de estudio — Jacobot
+# 🤖 Jacobot — Agente de IA empresarial para Microsoft 365
+
+![Estado](https://img.shields.io/badge/Estado-preproducci%C3%B3n-D97706?style=for-the-badge)
+![Tecnología](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Integración](https://img.shields.io/badge/Microsoft_Graph-Entra_ID-0078D4?style=for-the-badge)
+![Pruebas](https://img.shields.io/badge/100%2B-pruebas-16804A?style=for-the-badge)
 
 **Categoría:** Agentes empresariales de IA · Microsoft 365 · Seguridad  
 **Rol:** Arquitectura y desarrollo de IA  

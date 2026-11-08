@@ -21,6 +21,15 @@ Mi experiencia cruza **ingeniería de software, automatización y operaciones de
 <p>Soluciones desarrolladas para operaciones reales, comunidades y usuarios. Haz clic en cada proyecto para explorar su arquitectura, funcionalidades y resultados.</p>
 
 <table>
+<tr><td colspan="2" valign="top">
+<h3>🤖 <a href="casos/jacobot.md">Jacobot</a> · Agente de IA empresarial para Microsoft 365</h3>
+<p><img src="https://img.shields.io/badge/Estado-preproducci%C3%B3n-D97706?style=flat-square" alt="En preproducción"/>
+<img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python/FastAPI"/>
+<img src="https://img.shields.io/badge/Microsoft_Graph-Entra_ID-0078D4?style=flat-square" alt="Microsoft Graph y Entra ID"/>
+<img src="https://img.shields.io/badge/100%2B-pruebas-16804A?style=flat-square" alt="Más de 100 pruebas"/></p>
+<p><strong>Agente con tool calling seguro.</strong> Un Tool Gateway en Python/FastAPI recibe llamadas estructuradas del agente, valida políticas y permisos, ejecuta acciones en SharePoint vía Microsoft Graph (OAuth 2.0 On-Behalf-Of) y pide <strong>aprobación humana</strong> para acciones sensibles, con auditoría de cada operación.</p>
+<p><a href="casos/jacobot.md">📖 Ver caso de estudio</a></p>
+</td></tr>
 <tr><td width="50%" valign="top">
 <h3>🏢 <a href="casos/datahub.md">DataHub</a></h3>
 <p><img src="https://img.shields.io/badge/11_m%C3%B3dulos-gesti%C3%B3n_empresarial-2563EB?style=flat-square" alt="11 módulos"/><br/>
@@ -49,14 +58,6 @@ Mi experiencia cruza **ingeniería de software, automatización y operaciones de
 <p><a href="casos/centenario-fc.md">📖 Ver caso de estudio</a> · <a href="https://www.centenario-fc.app/">🌐 Visitar app</a> <sub>(acceso privado)</sub></p>
 </td></tr>
 </table>
-
-<details>
-<summary><b>🤖 Jacobot — Agente empresarial para Microsoft 365 (en preproducción)</b></summary>
-<br/>
-Integración con Microsoft Graph y Entra ID mediante un gateway Python/FastAPI. Incluye validación de políticas, aprobaciones humanas, auditoría y más de 100 pruebas automatizadas.
-
-[📖 Explorar arquitectura y estado](casos/jacobot.md)
-</details>
 
 <details>
 <summary><b>🔐 ¿Por qué algunos repositorios no son públicos?</b></summary>
@@ -116,7 +117,7 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
   </tr>
 </table>
 
-<p align="center"><sub>LLM APIs · Function calling · Tool use · Guardrails · Evaluación y pruebas de agentes</sub></p>
+<p align="center"><sub>LLM APIs · Function calling · Tool use · Guardrails · Evaluación y pruebas de agentes · Claude Code · Codex</sub></p>
 
 ### 🧩 Backend, datos y frontend
 
@@ -138,31 +139,31 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
   <tr>
     <td align="center" width="20%">
       <a href="https://n8n.io/">
-        <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="Logo n8n" width="46" height="46"/>
+        <img src="assets/icons/n8n.svg" alt="Logo n8n" width="46" height="46"/>
       </a><br/>
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate">
-        <img src="https://msicons.com/icons/power-platform/PowerAutomate_scalable.svg" alt="Logo Power Automate" width="46" height="46"/>
+        <img src="assets/icons/power-automate.svg" alt="Logo Power Automate" width="46" height="46"/>
       </a><br/>
       <sub><b>Power Automate</b></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://www.microsoft.com/en-us/power-platform/products/power-apps">
-        <img src="https://msicons.com/icons/power-platform/PowerApps_scalable.svg" alt="Logo Power Apps" width="46" height="46"/>
+        <img src="assets/icons/power-apps.svg" alt="Logo Power Apps" width="46" height="46"/>
       </a><br/>
       <sub><b>Power Apps</b></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://www.odoo.com/">
-        <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Logo Odoo" width="46" height="46"/>
+        <img src="assets/icons/odoo.svg" alt="Logo Odoo" width="46" height="46"/>
       </a><br/>
       <sub><b>Odoo</b></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://learn.microsoft.com/en-us/graph/overview">
-        <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/microsoft-365/microsoft-365.svg" alt="Microsoft 365: integración con Microsoft Graph" width="46" height="46"/>
+        <img src="assets/icons/microsoft-365.svg" alt="Microsoft 365: integración con Microsoft Graph" width="46" height="46"/>
       </a><br/>
       <sub><b>Microsoft Graph</b></sub>
     </td>
@@ -180,7 +181,7 @@ Parte de los desarrollos corresponde a clientes o sistemas con información oper
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
