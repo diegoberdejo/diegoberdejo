@@ -34,4 +34,4 @@ El proyecto cuenta con **267 pruebas automatizadas** que corren en CI (GitHub Ac
 
 **No está presentado como producto en producción**. Su principal valor demostrable en esta fase es la arquitectura del agente, sus integraciones y los controles de seguridad y calidad.
 
-> Código: [diegoberdejo/jacobot-gateway](https://github.com/diegoberdejo/jacobot-gateway). El repositorio público omite credenciales, configuraciones internas e información de terceros.
+> El código es privado. Esta ficha omite credenciales, configuraciones internas e información de terceros.
