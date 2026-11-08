@@ -3,7 +3,7 @@
 ![Estado](https://img.shields.io/badge/Estado-preproducci%C3%B3n-D97706?style=for-the-badge)
 ![Tecnología](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Integración](https://img.shields.io/badge/Microsoft_Graph-Entra_ID-0078D4?style=for-the-badge)
-![Pruebas](https://img.shields.io/badge/100%2B-pruebas-16804A?style=for-the-badge)
+![Pruebas](https://img.shields.io/badge/267-pruebas-16804A?style=for-the-badge)
 
 **Categoría:** Agentes empresariales de IA · Microsoft 365 · Seguridad  
 **Rol:** Arquitectura y desarrollo de IA  
@@ -28,10 +28,10 @@ Trabajo en **Jacobot**, un agente empresarial con un **Tool Gateway** desarrolla
 
 Python · FastAPI · Pydantic · SQLAlchemy · Alembic · Microsoft Graph · Entra ID · OAuth 2.0 · pytest
 
-El proyecto cuenta con **más de 100 pruebas automatizadas**, de acuerdo con su documentación de desarrollo.
+El proyecto cuenta con **267 pruebas automatizadas** que corren en CI (GitHub Actions) junto con ruff, mypy en modo estricto y pip-audit.
 
 ## Estado e impacto
 
 **No está presentado como producto en producción**. Su principal valor demostrable en esta fase es la arquitectura del agente, sus integraciones y los controles de seguridad y calidad.
 
-> El repositorio permanece privado. Esta ficha omite credenciales, configuraciones internas e información de terceros.
+> Código: [diegoberdejo/jacobot-gateway](https://github.com/diegoberdejo/jacobot-gateway). El repositorio público omite credenciales, configuraciones internas e información de terceros.

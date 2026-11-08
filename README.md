@@ -26,9 +26,9 @@ Mi experiencia cruza **ingeniería de software, automatización y operaciones de
 <p><img src="https://img.shields.io/badge/Estado-preproducci%C3%B3n-D97706?style=flat-square" alt="En preproducción"/>
 <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python/FastAPI"/>
 <img src="https://img.shields.io/badge/Microsoft_Graph-Entra_ID-0078D4?style=flat-square" alt="Microsoft Graph y Entra ID"/>
-<img src="https://img.shields.io/badge/100%2B-pruebas-16804A?style=flat-square" alt="Más de 100 pruebas"/></p>
+<img src="https://img.shields.io/badge/267-pruebas-16804A?style=flat-square" alt="267 pruebas"/></p>
 <p><strong>Agente con tool calling seguro.</strong> Un Tool Gateway en Python/FastAPI recibe llamadas estructuradas del agente, valida políticas y permisos, ejecuta acciones en SharePoint vía Microsoft Graph (OAuth 2.0 On-Behalf-Of) y pide <strong>aprobación humana</strong> para acciones sensibles, con auditoría de cada operación.</p>
-<p><a href="casos/jacobot.md">📖 Ver caso de estudio</a></p>
+<p><a href="https://github.com/diegoberdejo/jacobot-gateway">💻 Ver código</a> · <a href="casos/jacobot.md">📖 Ver caso de estudio</a></p>
 </td></tr>
 <tr><td width="50%" valign="top">
 <h3>🏢 <a href="casos/datahub.md">DataHub</a></h3>
